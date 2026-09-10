@@ -13,6 +13,10 @@ Coleção de skills pessoais para o [Claude Code](https://claude.com/claude-code
 | [`search-second-brain`](./search-second-brain) | Busca e consulta um vault Obsidian ("second brain") usando um modelo Ollama local, com CLI de CRUD de nós. |
 | [`spike`](./spike) | Valida uma mudança em um recorte isolado (sandbox com dependências mockadas e testes de caracterização) antes de propagar para o projeto inteiro. |
 | [`task-observer`](./task-observer) | Observa a execução de tarefas para identificar oportunidades de melhoria/criação de skills, capturando padrões e correções do usuário. |
+| [`second-brain-graph-linker`](./second-brain-graph-linker) | Mantém o grafo de um vault Obsidian ("second brain") ativamente conectado — liga notas órfãs e sugere links para notas novas. |
+| [`micromouse-lab-notebook`](./micromouse-lab-notebook) | Caderno de bordo para projetos de robótica com múltiplas frentes em paralelo (firmware, hardware, paper) — registra e recupera o estado de cada frente entre sessões. |
+| [`machine-health-watchdog`](./machine-health-watchdog) | Checklist de diagnóstico rápido para problemas recorrentes de máquina Linux já mapeados (áudio, memória, Bluetooth) — modelo para documentar seus próprios. |
+| [`investimento-pessoal-value-check`](./investimento-pessoal-value-check) | Checklist para decisões de investimento pessoal com lente de value investing, mantida separada de contextos de trabalho. |
 
 ## Instalação
 
